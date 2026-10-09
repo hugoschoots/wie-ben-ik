@@ -1,3 +1,5 @@
+> **Warning:** This project is vibe coded.
+
 # Wie ben ik?
 
 A local multiplayer party game. Dutch interface, Next.js App Router, TypeScript, Tailwind CSS and Socket.IO. No accounts, database, external APIs or paid services.
